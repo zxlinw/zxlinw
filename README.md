@@ -18,3 +18,8 @@
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=androidstudio,azure,figma,firebase,git,github,githubactions,gitlab,linux,mongodb,postgres,sqlite,supabase,postman,vscode,&theme=light)](https://skillicons.dev)
 
+<div> 
+ 
+  ![Snake animation](https://github.com/zxlinw/zxlinw/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
