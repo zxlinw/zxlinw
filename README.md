@@ -1,14 +1,14 @@
-# hey there, i'm Zilin!
+# hey there, i'm zilin!
 
-## 👋 About Me
+## about me 👋 
 - Computer Science student at the University of Waterloo
 - Software developer focused on building scalable web & mobile apps and providing a positive user experience
 
-## 💼 Work Experience
+## work experience 💼 
 - Software Developer Intern @ Dayforce
 - Junior Software Developer @ JMA Consulting
 
-## 🛠 Tech Stack
+## tech stack 🛠 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=c,cs,cpp,dart,js,ts,py,php,r,html,css,bash,latex,&theme=light)](https://skillicons.dev)
 
