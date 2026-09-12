@@ -7,6 +7,8 @@
 ## work experience 💼 
 - Software Developer Intern @ Dayforce
 - Junior Software Developer @ JMA Consulting
+- Frontend Developer @ PetDrifts
+- Mobile App Developer @ GOC Markham
 
 ## tech stack 🛠 
 ### languages
